@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22",
+  "updated_at": "2026-10-27",
   "title": "Gaze Atlas Research",
   "topics": {
     "Measurement & methods": "测量方法",
@@ -1103,7 +1103,12 @@
       "checked_at": "2026-10-22",
       "metadata_basis": "Publisher record or author-hosted publication",
       "published_on": "2026-05-19",
-      "added_at": "2026-10-22"
+      "added_at": "2026-10-22",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-00036",
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
     },
     {
       "id": "klaib-2026-strabismus-game",
@@ -1466,6 +1471,2842 @@
       "metadata_basis": "Publisher record or author-hosted publication",
       "published_on": "2026-04-08",
       "added_at": "2026-10-22"
+    },
+    {
+      "id": "sc01-00009",
+      "title": "The Impact of Emotion Perception and Gaze Sharing on Collaborative Experience and Performance in Multiplayer Games",
+      "authors": "Lu Yin; He Zhang; Renke He",
+      "year": 2026,
+      "venue": "Journal of Eye Movement Research",
+      "publication_type": "Journal article",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Fireboy and Watergirl — gaze-sharing adaptation in a desktop setting, using gaze position or direction for social or shared-gaze interaction. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Fireboy and Watergirl — gaze-sharing adaptation 在桌面环境中的设计，使用视线位置或方向实现社会性或共享视线交互。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.3390/jemr19020034",
+      "doi": "10.3390/jemr19020034",
+      "discovery_source": "https://doi.org/10.3390/jemr19020034",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-00009",
+      "evidence_cluster": "Social & shared gaze",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "social"
+      ],
+      "system_names": [
+        "Fireboy and Watergirl — gaze-sharing adaptation"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-00122",
+      "title": "Eye-Tracking-Controlled Social Gameplay in Virtual Reality for Distance Learners",
+      "authors": "Alžběta Šašinková; František Holubec; Čeněk Šašinka",
+      "year": 2026,
+      "venue": "ETRA 2026 - Proceedings of the 2026 Symposium on Eye Tracking Research and Applications",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Terra Incognita — balloon quiz in a head-mounted VR setting, using gaze position or direction for selection or confirmation and social or shared-gaze interaction. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Terra Incognita — balloon quiz 在头显虚拟现实环境中的设计，使用视线位置或方向实现选择或确认、社会性或共享视线交互。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3797246.3806220",
+      "doi": "10.1145/3797246.3806220",
+      "discovery_source": "https://doi.org/10.1145/3797246.3806220",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-00122",
+      "evidence_cluster": "VR & spatial interaction",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "selection",
+        "social"
+      ],
+      "system_names": [
+        "Terra Incognita — balloon quiz"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-00186",
+      "title": "GazeDrift: A Balloon-Popping Serious Game for Eye Tracking Troubleshooting in VR",
+      "authors": "László Kopácsi; Abdulrahman Mohamed Selim; Arham Ahmed; Michael Barz; Daniel Sonntag",
+      "year": 2026,
+      "venue": "Proceedings - 2026 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops, VRW 2026",
+      "publication_type": "Conference paper",
+      "topic": "Training & rehabilitation",
+      "summary_en": "Examines GazeDrift in a head-mounted VR setting, using gaze position or direction for selection or confirmation. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 GazeDrift 在头显虚拟现实环境中的设计，使用视线位置或方向实现选择或确认。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1109/vrw70859.2026.00380",
+      "doi": "10.1109/vrw70859.2026.00380",
+      "discovery_source": "https://doi.org/10.1109/vrw70859.2026.00380",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-00186",
+      "evidence_cluster": "VR & spatial interaction",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "selection"
+      ],
+      "system_names": [
+        "GazeDrift"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-00261",
+      "title": "Prototyping Gaze-Controlled Virtual Reality Video Games as a Way to Control Acute Pain in the Treatment of Burned Children",
+      "authors": "Mario Recabarren; Maria Gabriela Hidalgo; Francisco J. Gutiérrez",
+      "year": 2026,
+      "venue": "Lecture Notes in Computer Science",
+      "publication_type": "Book chapter",
+      "topic": "Training & rehabilitation",
+      "summary_en": "Public abstract or HTML documentation describes Burn-care VR gaze minigames in a head-mounted VR setting, using gaze position or direction for selection or confirmation and actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 Burn-care VR gaze minigames 在头显虚拟现实环境中的设计，使用视线位置或方向实现选择或确认、动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://doi.org/10.1007/978-3-032-30405-6_23",
+      "doi": "10.1007/978-3-032-30405-6_23",
+      "discovery_source": "https://doi.org/10.1007/978-3-032-30405-6_23",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-00261",
+      "evidence_cluster": "Child-focused therapy & training",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "selection",
+        "action"
+      ],
+      "system_names": [
+        "Burn-care VR gaze minigames [descriptive suite]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-00302",
+      "title": "Eyes or Hands?: Evaluating Gaze-Pinch and Touch for Game Interaction on Apple Vision Pro",
+      "authors": "Aney Rani Paul; Farjana Z. Eishita",
+      "year": 2026,
+      "venue": "Proceedings - 2026 IEEE 5th International Conference on Intelligent Reality, ICIR 2026",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Public abstract or HTML documentation describes Apple Vision Pro balloon-gallery game in a head-mounted VR setting, using gaze position or direction for selection or confirmation and actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 Apple Vision Pro balloon-gallery game 在头显虚拟现实环境中的设计，使用视线位置或方向实现选择或确认、动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://doi.org/10.1109/icir70631.2026.11628254",
+      "doi": "10.1109/icir70631.2026.11628254",
+      "discovery_source": "https://doi.org/10.1109/icir70631.2026.11628254",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-00302",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "selection",
+        "action"
+      ],
+      "system_names": [
+        "Apple Vision Pro balloon-gallery game"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-00190",
+      "title": "Enhanced Gaze-Controller System for 2D Platform Game Using Finite State Machines",
+      "authors": "Sami Alesawi",
+      "year": 2025,
+      "venue": "International Journal of Serious Games",
+      "publication_type": "Journal article",
+      "topic": "Games & interaction",
+      "summary_en": "Examines FSM gaze-controlled platformer in a desktop setting, using gaze position or direction and blinking for movement or camera control and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 FSM gaze-controlled platformer 在桌面环境中的设计，使用视线位置或方向、眨眼实现移动或镜头控制、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.17083/9gfnxh63",
+      "doi": "10.17083/9gfnxh63",
+      "discovery_source": "https://doi.org/10.17083/9gfnxh63",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-00190",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze",
+        "blink"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "FSM gaze-controlled platformer [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-00546",
+      "title": "Analysis of a Novel Training Game with Eye Tracking and Electromyography for Autonomous Wheelchair Control",
+      "authors": "Peter Smith; Matt Dombrowski; Viviana Rivera; Maanya Pradeep; Delaney Gunnell; John Sparkman; Albert C. Manero",
+      "year": 2025,
+      "venue": "Applied Sciences (Switzerland)",
+      "publication_type": "Journal article",
+      "topic": "Training & rehabilitation",
+      "summary_en": "Examines Limbitless Journey in a desktop setting, using gaze position or direction for selection or confirmation. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Limbitless Journey 在桌面环境中的设计，使用视线位置或方向实现选择或确认。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.3390/app15105268",
+      "doi": "10.3390/app15105268",
+      "discovery_source": "https://doi.org/10.3390/app15105268",
+      "related_game_ids": [
+        "limbitless-journey"
+      ],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-00546",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "selection"
+      ],
+      "system_names": [
+        "Limbitless Journey"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-00877",
+      "title": "Etherea: a Video Game for Individuals With Motor Disabilities With Eye-Tracking-Based Interaction",
+      "authors": "Edoardo Carrer; Susanna Brambilla; Marco Ligabue; Eleonora Chitti; Giuseppe Boccignone; N. Alberto Borghese; Laura Anna Ripamonti",
+      "year": 2025,
+      "venue": "SeGAH 2025 - 2025 IEEE 13th Conference on Serious Games and Applications for Health",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Public abstract or HTML documentation describes Etherea in a desktop setting, using gaze position or direction for movement or camera control and actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 Etherea 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://doi.org/10.1109/segah65397.2025.11168449",
+      "doi": "10.1109/segah65397.2025.11168449",
+      "discovery_source": "https://doi.org/10.1109/segah65397.2025.11168449",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-00877",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "Etherea"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-00909",
+      "title": "An Adaptive Brain-Computer Interface Game with Blink Controls and Cognitive State Monitoring",
+      "authors": "Saravanakumar Duraisamy; Nick Roeser; Mateusz Dubiel; Luis A. Leiva",
+      "year": 2025,
+      "venue": "International Conference on Intelligent User Interfaces, Proceedings IUI",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Adaptive dinosaur runner in a desktop setting, using blinking for actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Adaptive dinosaur runner 在桌面环境中的设计，使用眨眼实现动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3708557.3716365",
+      "doi": "10.1145/3708557.3716365",
+      "discovery_source": "https://doi.org/10.1145/3708557.3716365",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-00909",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "blink"
+      ],
+      "interaction_roles": [
+        "action"
+      ],
+      "system_names": [
+        "Adaptive dinosaur runner [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-00595",
+      "title": "User performance and engagement in multi-user gaming Environments: An experimental investigation through the group eye tracking (GET) paradigm",
+      "authors": "Cengiz Acartürk; Mehmetcan Fal; Murat Perit Çakır",
+      "year": 2024,
+      "venue": "Entertainment Computing",
+      "publication_type": "Journal article",
+      "topic": "Games & interaction",
+      "summary_en": "Public abstract or HTML documentation describes GET multi-user balloon-popping game in a desktop setting, using gaze position or direction for actions or game-state changes and social or shared-gaze interaction. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 GET multi-user balloon-popping game 在桌面环境中的设计，使用视线位置或方向实现动作或游戏状态变化、社会性或共享视线交互；全文核验仍待完成。",
+      "url": "https://doi.org/10.1016/j.entcom.2024.100714",
+      "doi": "10.1016/j.entcom.2024.100714",
+      "discovery_source": "https://doi.org/10.1016/j.entcom.2024.100714",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-00595",
+      "evidence_cluster": "Social & shared gaze",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "action",
+        "social"
+      ],
+      "system_names": [
+        "GET multi-user balloon-popping game"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-00818",
+      "title": "Efects of a Gaze-Based 2D Platform Game on User Enjoyment, Perceived Competence, and Digital Eye Strain",
+      "authors": "Mark Colley; Beate Wanner; Max Rädler; Marcel Rötzer; Julian Frommel; Teresa Hirzle; Pascal Jansen; Enrico Rukzio",
+      "year": 2024,
+      "venue": "Conference on Human Factors in Computing Systems - Proceedings",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Shed Some Fear in a desktop setting, using gaze position or direction for movement or camera control and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Shed Some Fear 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3613904.3641909",
+      "doi": "10.1145/3613904.3641909",
+      "discovery_source": "https://doi.org/10.1145/3613904.3641909",
+      "related_game_ids": [
+        "shed-some-fear"
+      ],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-00818",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "Shed Some Fear"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-00829",
+      "title": "Design a Game for Eyes: Experiencing Eye Tracking as the Primary Control Mechanism in Slumber Suburban",
+      "authors": "Zihan Feng; Shimin Sun; Qingya Zeng; Li Zheng",
+      "year": 2024,
+      "venue": "ACM International Conference Proceeding Series",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Slumber Suburban in a desktop setting, using gaze position or direction, blinking and eye closure or looking away for selection or confirmation and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Slumber Suburban 在桌面环境中的设计，使用视线位置或方向、眨眼、闭眼或移开视线实现选择或确认、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3649921.3656972",
+      "doi": "10.1145/3649921.3656972",
+      "discovery_source": "https://doi.org/10.1145/3649921.3656972",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-00829",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze",
+        "blink",
+        "eye-closure"
+      ],
+      "interaction_roles": [
+        "selection",
+        "action"
+      ],
+      "system_names": [
+        "Slumber Suburban"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-00957",
+      "title": "The Impact of Cues on Joint Attention in Children with Autism Spectrum Disorder: An Eye-Tracking Study in Virtual Games",
+      "authors": "Lili Liu; Shuang Li; Lin Tian; Xinyu Yao; Yutao Ling; Jingying Chen; Guangshuai Wang; Yang Yang",
+      "year": 2024,
+      "venue": "Behavioral Sciences",
+      "publication_type": "Journal article",
+      "topic": "Clinical & developmental",
+      "summary_en": "Examines LEGO Puzzle — joint attention in a desktop setting, using gaze position or direction for selection or confirmation and social or shared-gaze interaction. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 LEGO Puzzle — joint attention 在桌面环境中的设计，使用视线位置或方向实现选择或确认、社会性或共享视线交互。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.3390/bs14100871",
+      "doi": "10.3390/bs14100871",
+      "discovery_source": "https://doi.org/10.3390/bs14100871",
+      "related_game_ids": [
+        "lego-puzzle-joint-attention"
+      ],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-00957",
+      "evidence_cluster": "Child-focused therapy & training",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "selection",
+        "social"
+      ],
+      "system_names": [
+        "LEGO Puzzle — joint attention"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-00983",
+      "title": "A real-time camera-based gaze-tracking system involving dual interactive modes and its application in gaming",
+      "authors": "He Zhang; Lu Yin; Hanling Zhang",
+      "year": 2024,
+      "venue": "Multimedia Systems",
+      "publication_type": "Journal article",
+      "topic": "Measurement & methods",
+      "summary_en": "Public abstract or HTML documentation describes Dual-mode gaze/head-gaze game in a desktop setting, using gaze position or direction for movement or camera control and actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 Dual-mode gaze/head-gaze game 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://doi.org/10.1007/s00530-023-01204-9",
+      "doi": "10.1007/s00530-023-01204-9",
+      "discovery_source": "https://doi.org/10.1007/s00530-023-01204-9",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-00983",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "Dual-mode gaze/head-gaze game [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-01024",
+      "title": "Usability study of gaze-based control methods in a game with time pressure",
+      "authors": "Katarzyna Kotyńska; Jacek Matulewski",
+      "year": 2024,
+      "venue": "Procedia Computer Science",
+      "publication_type": "Conference paper",
+      "topic": "Measurement & methods",
+      "summary_en": "Public abstract or HTML documentation describes Breakout — 2024 gaze-control study in a desktop setting, using gaze position or direction for movement or camera control. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 Breakout — 2024 gaze-control study 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制；全文核验仍待完成。",
+      "url": "https://doi.org/10.1016/j.procs.2024.09.427",
+      "doi": "10.1016/j.procs.2024.09.427",
+      "discovery_source": "https://doi.org/10.1016/j.procs.2024.09.427",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-01024",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement"
+      ],
+      "system_names": [
+        "Breakout — 2024 gaze-control study"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-01026",
+      "title": "Design and Validation of Attention Training Game Based on Eye Tracking Interaction",
+      "authors": "Chengbao Wang; Tianyang Zhang",
+      "year": 2024,
+      "venue": "Proceedings - 2024 International Conference on Information Technology, Communication Ecosystem and Management, ITCEM 2024",
+      "publication_type": "Conference paper",
+      "topic": "Training & rehabilitation",
+      "summary_en": "Public abstract or HTML documentation describes Eye-interaction attention-training game in a desktop setting, using gaze position or direction for selection or confirmation and actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 Eye-interaction attention-training game 在桌面环境中的设计，使用视线位置或方向实现选择或确认、动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://doi.org/10.1109/itcem65710.2024.00028",
+      "doi": "10.1109/itcem65710.2024.00028",
+      "discovery_source": "https://doi.org/10.1109/itcem65710.2024.00028",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-01026",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "selection",
+        "action"
+      ],
+      "system_names": [
+        "Eye-interaction attention-training game [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-01114",
+      "title": "Integrating Eye-Tracking in Games: Enhancing Player Experience and Understanding Social Gaze Issues",
+      "authors": "Yu Ting He; Shiwei Xie; Han Zhang; Yang Dai",
+      "year": 2024,
+      "venue": "GCCE 2024 - 2024 IEEE 13th Global Conference on Consumer Electronics",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Public abstract or HTML documentation describes Social-gaze serious-game prototype in a desktop setting, using gaze position or direction for actions or game-state changes and social or shared-gaze interaction. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 Social-gaze serious-game prototype 在桌面环境中的设计，使用视线位置或方向实现动作或游戏状态变化、社会性或共享视线交互；全文核验仍待完成。",
+      "url": "https://doi.org/10.1109/gcce62371.2024.10760808",
+      "doi": "10.1109/gcce62371.2024.10760808",
+      "discovery_source": "https://doi.org/10.1109/gcce62371.2024.10760808",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-01114",
+      "evidence_cluster": "Social & shared gaze",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "action",
+        "social"
+      ],
+      "system_names": [
+        "Social-gaze serious-game prototype [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-01160",
+      "title": "Development of games using eye tracking devices",
+      "authors": "Patrik Voštinár; Michal Šrobár",
+      "year": 2024,
+      "venue": "2024 IEEE 17th International Scientific Conference on Informatics, INFORMATICS 2024 - Proceedings",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Public abstract or HTML documentation describes Tobii eye-controlled games/application in a desktop setting, using gaze position or direction for movement or camera control and actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 Tobii eye-controlled games/application 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://doi.org/10.1109/informatics62280.2024.10900747",
+      "doi": "10.1109/informatics62280.2024.10900747",
+      "discovery_source": "https://doi.org/10.1109/informatics62280.2024.10900747",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-01160",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "Tobii eye-controlled games/application [descriptive suite]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-01192",
+      "title": "A novel jigsaw game with eye-tracking: A multimodel interaction based on psycholinguistics for ADHD therapeutic",
+      "authors": "Wu Xinru",
+      "year": 2024,
+      "venue": "Computer Animation and Virtual Worlds",
+      "publication_type": "Journal article",
+      "topic": "Clinical & developmental",
+      "summary_en": "Examines Narrative eye-tracking jigsaw game in a desktop setting, using gaze position or direction for selection or confirmation and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Narrative eye-tracking jigsaw game 在桌面环境中的设计，使用视线位置或方向实现选择或确认、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1002/cav.2214",
+      "doi": "10.1002/cav.2214",
+      "discovery_source": "https://doi.org/10.1002/cav.2214",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-01192",
+      "evidence_cluster": "Child-focused therapy & training",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "selection",
+        "action"
+      ],
+      "system_names": [
+        "Narrative eye-tracking jigsaw game"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-01104",
+      "title": "Evaluation of several gaze control methods for a board game with no time pressure",
+      "authors": "Julia Grech; Jacek Matulewski",
+      "year": 2023,
+      "venue": "Procedia Computer Science",
+      "publication_type": "Conference paper",
+      "topic": "Measurement & methods",
+      "summary_en": "Public abstract or HTML documentation describes Checkers — gaze-control study in a desktop setting, using gaze position or direction for selection or confirmation and actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 Checkers — gaze-control study 在桌面环境中的设计，使用视线位置或方向实现选择或确认、动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://doi.org/10.1016/j.procs.2023.10.237",
+      "doi": "10.1016/j.procs.2023.10.237",
+      "discovery_source": "https://doi.org/10.1016/j.procs.2023.10.237",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-01104",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "selection",
+        "action"
+      ],
+      "system_names": [
+        "Checkers — gaze-control study"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-01213",
+      "title": "Design and research of strabismus correction therapy game system based on eye tracking technology",
+      "authors": "Baizhen Zhu; Xuebai Zhang; Sijing Zhang",
+      "year": 2023,
+      "venue": "ACM International Conference Proceeding Series",
+      "publication_type": "Conference paper",
+      "topic": "Training & rehabilitation",
+      "summary_en": "Examines Strabismus therapy game suite in a desktop setting, using gaze position or direction for movement or camera control and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Strabismus therapy game suite 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3644116.3644292",
+      "doi": "10.1145/3644116.3644292",
+      "discovery_source": "https://doi.org/10.1145/3644116.3644292",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-01213",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "Strabismus therapy game suite [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-01347",
+      "title": "Blink Don't Wink: Exploring Blinks as Input for VR Games",
+      "authors": "Mikkel Rosholm; Theo Khumsan; Jonas Valvik; Niels Christian Nilsson; Ali Adjorlu",
+      "year": 2023,
+      "venue": "Proceedings - SUI 2023: ACM Symposium on Spatial User Interaction",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Blink Don't Wink — VR minigame suite in a head-mounted VR setting, using blinking and eye closure or looking away for movement or camera control and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Blink Don't Wink — VR minigame suite 在头显虚拟现实环境中的设计，使用眨眼、闭眼或移开视线实现移动或镜头控制、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3607822.3614527",
+      "doi": "10.1145/3607822.3614527",
+      "discovery_source": "https://doi.org/10.1145/3607822.3614527",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-01347",
+      "evidence_cluster": "VR & spatial interaction",
+      "eye_signals": [
+        "blink",
+        "eye-closure"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "Blink Don't Wink — VR minigame suite"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-01600",
+      "title": "A LabVIEW Based Brain-Computer Interface Training Environment by Controlling Yoda Holograms Using Eye-Blinks According to an Interactive Game Framework",
+      "authors": "Oana Andreea Rușanu; Ileana Constanta Rosca",
+      "year": 2023,
+      "venue": "Lecture Notes in Networks and Systems",
+      "publication_type": "Conference paper",
+      "topic": "Training & rehabilitation",
+      "summary_en": "Examines Yoda hologram blink-code training in a holographic-display setting, using blinking for actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Yoda hologram blink-code training 在全息显示环境中的设计，使用眨眼实现动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1007/978-3-031-26190-9_107",
+      "doi": "10.1007/978-3-031-26190-9_107",
+      "discovery_source": "https://doi.org/10.1007/978-3-031-26190-9_107",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-01600",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "blink"
+      ],
+      "interaction_roles": [
+        "action"
+      ],
+      "system_names": [
+        "Yoda hologram blink-code training"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-01568",
+      "title": "GazeCues: Exploring the Effects of Gaze-based Visual Cues in Virtual Reality Exploration Games",
+      "authors": "Michael Lankes; Argenis Ramírez Gómez",
+      "year": 2022,
+      "venue": "Proceedings of the ACM on Human-Computer Interaction",
+      "publication_type": "Journal article",
+      "topic": "Cognition & attention",
+      "summary_en": "Examines Thief Simulator — GazeCues prototype in a head-mounted VR setting, using gaze position or direction for guidance or cueing. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Thief Simulator — GazeCues prototype 在头显虚拟现实环境中的设计，使用视线位置或方向实现引导或提示。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3549500",
+      "doi": "10.1145/3549500",
+      "discovery_source": "https://doi.org/10.1145/3549500",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-01568",
+      "evidence_cluster": "VR & spatial interaction",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "guidance"
+      ],
+      "system_names": [
+        "Thief Simulator — GazeCues prototype"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-01945",
+      "title": "All Birds Must Fly: The Experience of Multimodal Hands-free Gaming with Gaze and Nonverbal Voice Synchronization",
+      "authors": "Ramin Hedeshy; Chandan Kumar; Mike Lauer; Steffen Staab",
+      "year": 2022,
+      "venue": "ACM International Conference Proceeding Series",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines All Birds Must Fly in a desktop setting, using gaze position or direction for movement or camera control and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 All Birds Must Fly 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3536221.3556593",
+      "doi": "10.1145/3536221.3556593",
+      "discovery_source": "https://doi.org/10.1145/3536221.3556593",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-01945",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "All Birds Must Fly"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-01989",
+      "title": "Gaming for Training Voluntary Control of Pupil Size",
+      "authors": "Leonardo Cardinali; Silvestro Roatta; Raffaele Pertusio; Marcella Testa; Cristina Moglia",
+      "year": 2022,
+      "venue": "Electronics (Switzerland)",
+      "publication_type": "Journal article",
+      "topic": "Training & rehabilitation",
+      "summary_en": "Examines Pupil-control spaceship game in a desktop setting, using pupil size for movement or camera control. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Pupil-control spaceship game 在桌面环境中的设计，使用瞳孔大小实现移动或镜头控制。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.3390/electronics11223713",
+      "doi": "10.3390/electronics11223713",
+      "discovery_source": "https://doi.org/10.3390/electronics11223713",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-01989",
+      "evidence_cluster": "Pupil-mediated mechanics",
+      "eye_signals": [
+        "pupil"
+      ],
+      "interaction_roles": [
+        "movement"
+      ],
+      "system_names": [
+        "Pupil-control spaceship game [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-01995",
+      "title": "The impact of eye-tracking games as a training case on students' learning interest and continuous learning intention in game design courses: Taking Flappy Bird as an example",
+      "authors": "Chao Gu; Jiangjie Chen; Jiacheng Lin; Shu‐Yuan Lin; Weilong Wu; Qianling Jiang; Chun K. Yang; Wei Wei",
+      "year": 2022,
+      "venue": "Learning and Motivation",
+      "publication_type": "Journal article",
+      "topic": "Training & rehabilitation",
+      "summary_en": "Examines Blink-controlled Flappy Bird in a desktop setting, using blinking for actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Blink-controlled Flappy Bird 在桌面环境中的设计，使用眨眼实现动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1016/j.lmot.2022.101808",
+      "doi": "10.1016/j.lmot.2022.101808",
+      "discovery_source": "https://doi.org/10.1016/j.lmot.2022.101808",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-01995",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "blink"
+      ],
+      "interaction_roles": [
+        "action"
+      ],
+      "system_names": [
+        "Blink-controlled Flappy Bird"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-01996",
+      "title": "Advancing dignity for adaptive wheelchair users via a hybrid eye tracking and electromyography training game",
+      "authors": "PETER A. S. SMITH; Matt Dombrowski; Shea McLinden; Calvin MacDonald; Devon Lynn; John Sparkman; Dominique Courbin; Albert C. Manero",
+      "year": 2022,
+      "venue": "Eye Tracking Research and Applications Symposium (ETRA)",
+      "publication_type": "Conference paper",
+      "topic": "Training & rehabilitation",
+      "summary_en": "Examines Limbitless Journey in a desktop setting, using gaze position or direction for selection or confirmation. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Limbitless Journey 在桌面环境中的设计，使用视线位置或方向实现选择或确认。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3517031.3529612",
+      "doi": "10.1145/3517031.3529612",
+      "discovery_source": "https://doi.org/10.1145/3517031.3529612",
+      "related_game_ids": [
+        "limbitless-journey"
+      ],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-01996",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "selection"
+      ],
+      "system_names": [
+        "Limbitless Journey"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-01637",
+      "title": "Investigating gaze interaction to support children's gameplay",
+      "authors": "Sofia Papavlasopoulou; Kshitij Sharma; Dávid Melhárt; Jasper Schellekens; Serena Lee‐Cultura; Michail N. Giannakos; Georgios N. Yiannakakis",
+      "year": 2021,
+      "venue": "International Journal of Child-Computer Interaction",
+      "publication_type": "Journal article",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Xtreme Yoga in a desktop setting, using gaze position or direction for movement or camera control and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Xtreme Yoga 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1016/j.ijcci.2021.100349",
+      "doi": "10.1016/j.ijcci.2021.100349",
+      "discovery_source": "https://doi.org/10.1016/j.ijcci.2021.100349",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-01637",
+      "evidence_cluster": "Child-focused therapy & training",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "Xtreme Yoga"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-02089",
+      "title": "Designing VR Games with Gaze Control for Directing Attention of Children with ADHD",
+      "authors": "Linda Graf; Leslie Scholemann; Maic Masuch",
+      "year": 2021,
+      "venue": "IEEE Conference on Computatonal Intelligence and Games, CIG",
+      "publication_type": "Conference paper",
+      "topic": "Clinical & developmental",
+      "summary_en": "Examines VR Space Mission — ADHD attention prototype in a head-mounted VR setting, using gaze position or direction for aiming or targeting and selection or confirmation. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 VR Space Mission — ADHD attention prototype 在头显虚拟现实环境中的设计，使用视线位置或方向实现瞄准或目标获取、选择或确认。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1109/cog52621.2021.9619077",
+      "doi": "10.1109/cog52621.2021.9619077",
+      "discovery_source": "https://doi.org/10.1109/cog52621.2021.9619077",
+      "related_game_ids": [
+        "adhd-vr-space-prototype"
+      ],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-02089",
+      "evidence_cluster": "Child-focused therapy & training",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "aiming",
+        "selection"
+      ],
+      "system_names": [
+        "VR Space Mission — ADHD attention prototype"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-02176",
+      "title": "Gaze as a Navigation and Control Mechanism in Third-Person Shooter Video Games",
+      "authors": "Patricio Isbej; Francisco J. Gutiérrez",
+      "year": 2021,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "publication_type": "Book chapter",
+      "topic": "Games & interaction",
+      "summary_en": "Public abstract or HTML documentation describes Gaze-controlled third-person shooter in a desktop setting, using gaze position or direction for movement or camera control, aiming or targeting and actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 Gaze-controlled third-person shooter 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、瞄准或目标获取、动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://doi.org/10.1007/978-3-030-77277-2_4",
+      "doi": "10.1007/978-3-030-77277-2_4",
+      "discovery_source": "https://doi.org/10.1007/978-3-030-77277-2_4",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-02176",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "aiming",
+        "action"
+      ],
+      "system_names": [
+        "Gaze-controlled third-person shooter [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-02422",
+      "title": "Design of an Interactive Virtual Reality System, InViRS, for Joint Attention Practice in Autistic Children",
+      "authors": "Ashwaq Zaini Amat; Huan Zhao; Amy R. Swanson; Amy S. Weitlauf; Zachary E. Warren; Nilanjan Sarkar",
+      "year": 2021,
+      "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "publication_type": "Journal article",
+      "topic": "Clinical & developmental",
+      "summary_en": "Examines InViRS — joint-attention game suite in a desktop setting, using gaze position or direction for social or shared-gaze interaction, adaptive gameplay and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 InViRS — joint-attention game suite 在桌面环境中的设计，使用视线位置或方向实现社会性或共享视线交互、自适应玩法、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1109/tnsre.2021.3108351",
+      "doi": "10.1109/tnsre.2021.3108351",
+      "discovery_source": "https://doi.org/10.1109/tnsre.2021.3108351",
+      "related_game_ids": [
+        "invirs"
+      ],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-02422",
+      "evidence_cluster": "Child-focused therapy & training",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "social",
+        "adaptation",
+        "action"
+      ],
+      "system_names": [
+        "InViRS — joint-attention game suite"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-02252",
+      "title": "Social Gaze in Minimalist Games",
+      "authors": "Michael Lankes",
+      "year": 2020,
+      "venue": "CHI PLAY 2020 - Proceedings of the Annual Symposium on Computer-Human Interaction in Play",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Contact in a desktop setting, using gaze position or direction for social or shared-gaze interaction and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Contact 在桌面环境中的设计，使用视线位置或方向实现社会性或共享视线交互、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3410404.3414265",
+      "doi": "10.1145/3410404.3414265",
+      "discovery_source": "https://doi.org/10.1145/3410404.3414265",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-02252",
+      "evidence_cluster": "Social & shared gaze",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "social",
+        "action"
+      ],
+      "system_names": [
+        "Contact"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-02258",
+      "title": "More than Looking: Using Eye Movements behind the Eyelids as a New Game Mechanic",
+      "authors": "Argenis Ramírez Gómez; Hans W. Gellersen",
+      "year": 2020,
+      "venue": "CHI PLAY 2020 - Proceedings of the Annual Symposium on Computer-Human Interaction in Play",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines KryptonEyed in a desktop setting, using gaze position or direction and eye closure or looking away for movement or camera control and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 KryptonEyed 在桌面环境中的设计，使用视线位置或方向、闭眼或移开视线实现移动或镜头控制、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3410404.3414240",
+      "doi": "10.1145/3410404.3414240",
+      "discovery_source": "https://doi.org/10.1145/3410404.3414240",
+      "related_game_ids": [
+        "kryptoneyed"
+      ],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-02258",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze",
+        "eye-closure"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "KryptonEyed"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-02269",
+      "title": "Eye caramba: Gaze-based assistance for virtual reality aiming and throwing tasks in games",
+      "authors": "Martin Kocur; Martin Dechant; Michael Lankes; Christian G. Wolff; Regan Lee Mandryk",
+      "year": 2020,
+      "venue": "Eye Tracking Research and Applications Symposium (ETRA)",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Eye Caramba in a desktop setting, using gaze position or direction for aiming or targeting. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Eye Caramba 在桌面环境中的设计，使用视线位置或方向实现瞄准或目标获取。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3379156.3391841",
+      "doi": "10.1145/3379156.3391841",
+      "discovery_source": "https://doi.org/10.1145/3379156.3391841",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-02269",
+      "evidence_cluster": "VR & spatial interaction",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "aiming"
+      ],
+      "system_names": [
+        "Eye Caramba"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-02439",
+      "title": "Characterizing the coordinating behaviors in a three vs. One ball possession game using gaze interaction",
+      "authors": "Takumi Akiyama; Kentaro Go; Akifumi Kijima; Yuichiro Kinoshita",
+      "year": 2020,
+      "venue": "CHI PLAY 2020 - Extended Abstracts of the 2020 Annual Symposium on Computer-Human Interaction in Play",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Three-vs-one ball possession game in a desktop setting, using gaze position or direction and smooth pursuit for movement or camera control and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Three-vs-one ball possession game 在桌面环境中的设计，使用视线位置或方向、平滑追踪实现移动或镜头控制、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3383668.3419867",
+      "doi": "10.1145/3383668.3419867",
+      "discovery_source": "https://doi.org/10.1145/3383668.3419867",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-02439",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze",
+        "pursuit"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "Three-vs-one ball possession game [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-02522",
+      "title": "Lost & Found: Gaze-based player guidance feedback in exploration games",
+      "authors": "Michael Lankes; Andreas Haslinger",
+      "year": 2019,
+      "venue": "CHI PLAY 2019 - Extended Abstracts of the Annual Symposium on Computer-Human Interaction in Play",
+      "publication_type": "Conference paper",
+      "topic": "Cognition & attention",
+      "summary_en": "Examines Lost and Found in a desktop setting, using gaze position or direction for guidance or cueing. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Lost and Found 在桌面环境中的设计，使用视线位置或方向实现引导或提示。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3341215.3356275",
+      "doi": "10.1145/3341215.3356275",
+      "discovery_source": "https://doi.org/10.1145/3341215.3356275",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-02522",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "guidance"
+      ],
+      "system_names": [
+        "Lost and Found"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-02782",
+      "title": "Looking outside the box: Reflecting on gaze interaction in gameplay",
+      "authors": "Argenis Ramírez Gómez; Hans W. Gellersen",
+      "year": 2019,
+      "venue": "CHI PLAY 2019 - Proceedings of the Annual Symposium on Computer-Human Interaction in Play",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Twileyed in a desktop setting, using gaze position or direction, blinking and eye closure or looking away for actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Twileyed 在桌面环境中的设计，使用视线位置或方向、眨眼、闭眼或移开视线实现动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3311350.3347150",
+      "doi": "10.1145/3311350.3347150",
+      "discovery_source": "https://doi.org/10.1145/3311350.3347150",
+      "related_game_ids": [
+        "twileyed"
+      ],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-02782",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze",
+        "blink",
+        "eye-closure"
+      ],
+      "interaction_roles": [
+        "action"
+      ],
+      "system_names": [
+        "Twileyed"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-02918",
+      "title": "Towards designing diegetic gaze in games: The use of gaze roles and metaphors",
+      "authors": "Argenis Ramírez Gómez; Michael Lankes",
+      "year": 2019,
+      "venue": "Multimodal Technologies and Interaction",
+      "publication_type": "Journal article",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Twileyed in a desktop setting, using gaze position or direction, blinking and eye closure or looking away for actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Twileyed 在桌面环境中的设计，使用视线位置或方向、眨眼、闭眼或移开视线实现动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.3390/mti3040065",
+      "doi": "10.3390/mti3040065",
+      "discovery_source": "https://doi.org/10.3390/mti3040065",
+      "related_game_ids": [
+        "twileyed"
+      ],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-02918",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze",
+        "blink",
+        "eye-closure"
+      ],
+      "interaction_roles": [
+        "action"
+      ],
+      "system_names": [
+        "Twileyed"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-02956",
+      "title": "Understanding user attention in VR using gaze controlled games",
+      "authors": "Murtada Dohan; Mu Mu",
+      "year": 2019,
+      "venue": "TVX 2019 - Proceedings of the 2019 ACM International Conference on Interactive Experiences for TV and Online Video",
+      "publication_type": "Conference paper",
+      "topic": "Cognition & attention",
+      "summary_en": "Examines VR alien-cube pursuit game in a head-mounted VR setting, using gaze position or direction and smooth pursuit for actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 VR alien-cube pursuit game 在头显虚拟现实环境中的设计，使用视线位置或方向、平滑追踪实现动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3317697.3325118",
+      "doi": "10.1145/3317697.3325118",
+      "discovery_source": "https://doi.org/10.1145/3317697.3325118",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-02956",
+      "evidence_cluster": "VR & spatial interaction",
+      "eye_signals": [
+        "gaze",
+        "pursuit"
+      ],
+      "interaction_roles": [
+        "action"
+      ],
+      "system_names": [
+        "VR alien-cube pursuit game [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03032",
+      "title": "Eye-Tracking for User Attention Evaluation in Adaptive Serious Games",
+      "authors": "Alexander Streicher; Sebastian Leidig; Wolfgang Roller",
+      "year": 2018,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "publication_type": "Conference paper",
+      "topic": "Training & rehabilitation",
+      "summary_en": "Examines SaFIRa in a desktop setting, using gaze position or direction for adaptive gameplay and guidance or cueing. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 SaFIRa 在桌面环境中的设计，使用视线位置或方向实现自适应玩法、引导或提示。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1007/978-3-319-98572-5_50",
+      "doi": "10.1007/978-3-319-98572-5_50",
+      "discovery_source": "https://doi.org/10.1007/978-3-319-98572-5_50",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03032",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "adaptation",
+        "guidance"
+      ],
+      "system_names": [
+        "SaFIRa"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03194",
+      "title": "Measuring the impact of reinforcement learning on an electrooculography-only computer game",
+      "authors": "João Perdiz; Luís Garrote; Gabriel Pires; Urbano Nunes",
+      "year": 2018,
+      "venue": "2018 IEEE 6th International Conference on Serious Games and Applications for Health, SeGAH 2018",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Public abstract or HTML documentation describes EOG go-kart obstacle game in a desktop setting, using gaze position or direction and blinking for movement or camera control, actions or game-state changes and adaptive gameplay. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 EOG go-kart obstacle game 在桌面环境中的设计，使用视线位置或方向、眨眼实现移动或镜头控制、动作或游戏状态变化、自适应玩法；全文核验仍待完成。",
+      "url": "https://doi.org/10.1109/segah.2018.8401359",
+      "doi": "10.1109/segah.2018.8401359",
+      "discovery_source": "https://doi.org/10.1109/segah.2018.8401359",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-03194",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze",
+        "blink"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action",
+        "adaptation"
+      ],
+      "system_names": [
+        "EOG go-kart obstacle game"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03210",
+      "title": "TrackMaze: A comparison of head-tracking, eye-tracking, and tilt as input methods for mobile games",
+      "authors": "Mahdieh Abbaszadegan; Sohrab Yaghoubi; Ian Scott MacKenzie",
+      "year": 2018,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines TrackMaze in a mobile setting, using gaze position or direction for movement or camera control. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 TrackMaze 在移动设备环境中的设计，使用视线位置或方向实现移动或镜头控制。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1007/978-3-319-91250-9_31",
+      "doi": "10.1007/978-3-319-91250-9_31",
+      "discovery_source": "https://doi.org/10.1007/978-3-319-91250-9_31",
+      "related_game_ids": [
+        "trackmaze"
+      ],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03210",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement"
+      ],
+      "system_names": [
+        "TrackMaze"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03214",
+      "title": "A study on the use of eye tracking to adapt gameplay and procedural content generation in first-person shooter games",
+      "authors": "João Antunes; Pedro Santana",
+      "year": 2018,
+      "venue": "Multimodal Technologies and Interaction",
+      "publication_type": "Journal article",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Zombie Runner in a desktop setting, using gaze position or direction for adaptive gameplay. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Zombie Runner 在桌面环境中的设计，使用视线位置或方向实现自适应玩法。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.3390/mti2020023",
+      "doi": "10.3390/mti2020023",
+      "discovery_source": "https://doi.org/10.3390/mti2020023",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03214",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "adaptation"
+      ],
+      "system_names": [
+        "Zombie Runner"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03309",
+      "title": "User interaction in hands-free gaming: A comparative study of gaze-voice and touchscreen interface control",
+      "authors": "Muhtar Çağkan Uludağlı; Cengiz Acartürk",
+      "year": 2018,
+      "venue": "Turkish Journal of Electrical Engineering and Computer Sciences",
+      "publication_type": "Journal article",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Neon Glider in a desktop setting, using gaze position or direction for movement or camera control. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Neon Glider 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.3906/elk-1710-128",
+      "doi": "10.3906/elk-1710-128",
+      "discovery_source": "https://doi.org/10.3906/elk-1710-128",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03309",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement"
+      ],
+      "system_names": [
+        "Neon Glider"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03336",
+      "title": "Socialeyes: Social gaze in collaborative 3D games",
+      "authors": "Michael Lankes; Matej Rajtár; Oleg Denisov; Bernhard Maurer",
+      "year": 2018,
+      "venue": "ACM International Conference Proceeding Series",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Socialeyes — collaborative building prototype in a desktop setting, using gaze position or direction for social or shared-gaze interaction. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Socialeyes — collaborative building prototype 在桌面环境中的设计，使用视线位置或方向实现社会性或共享视线交互。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3235765.3235766",
+      "doi": "10.1145/3235765.3235766",
+      "discovery_source": "https://doi.org/10.1145/3235765.3235766",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03336",
+      "evidence_cluster": "Social & shared gaze",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "social"
+      ],
+      "system_names": [
+        "Socialeyes — collaborative building prototype"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03351",
+      "title": "Development of an EOG-based system to control a serious game",
+      "authors": "Alberto López; Marta Fernández; Héctor Rodríguez; Francisco Javier Ferrero; Octavian Adrian Postolache",
+      "year": 2018,
+      "venue": "Measurement: Journal of the International Measurement Confederation",
+      "publication_type": "Journal article",
+      "topic": "Training & rehabilitation",
+      "summary_en": "Public abstract or HTML documentation describes EOG serious game in a desktop setting, using gaze position or direction for movement or camera control and actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 EOG serious game 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://doi.org/10.1016/j.measurement.2018.06.017",
+      "doi": "10.1016/j.measurement.2018.06.017",
+      "discovery_source": "https://doi.org/10.1016/j.measurement.2018.06.017",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-03351",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "EOG serious game [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03477",
+      "title": "Ergonomic and Human-Centered Design of Wearable Gaming Controller Using Eye Movements and Facial Expressions",
+      "authors": "Ker-Jiun Wang; Anna Zhang; Kaiwen You; Fangyi Chen; Quanbo Liu; Yu Liu; Zaiwang Li; Hsiao-Wei Tung; Zhi‐Hong Mao",
+      "year": 2018,
+      "venue": "2018 IEEE International Conference on Consumer Electronics-Taiwan, ICCE-TW 2018",
+      "publication_type": "Conference paper",
+      "topic": "Measurement & methods",
+      "summary_en": "Examines Super Mario Bros — EXGbuds adaptation in a desktop setting, using gaze position or direction for movement or camera control and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Super Mario Bros — EXGbuds adaptation 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1109/icce-china.2018.8448632",
+      "doi": "10.1109/icce-china.2018.8448632",
+      "discovery_source": "https://doi.org/10.1109/icce-china.2018.8448632",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03477",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "Super Mario Bros — EXGbuds adaptation"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03009",
+      "title": "Simplifying game mechanics: Gaze as an implicit interaction method",
+      "authors": "Diego Navarro; Veronica Sundstedt",
+      "year": 2017,
+      "venue": "SIGGRAPH Asia 2017 Technical Briefs, SA 2017",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Boss-shooter — implicit gaze prototype in a desktop setting, using gaze position or direction for actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Boss-shooter — implicit gaze prototype 在桌面环境中的设计，使用视线位置或方向实现动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3145749.3149446",
+      "doi": "10.1145/3145749.3149446",
+      "discovery_source": "https://doi.org/10.1145/3145749.3149446",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03009",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "action"
+      ],
+      "system_names": [
+        "Boss-shooter — implicit gaze prototype [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03245",
+      "title": "Live gaze-based authentication and gaming system",
+      "authors": "Quan Wang; Lelai Deng; Hao Cheng; Hualei Fan; Xiaoping Du; Qinghong Yang",
+      "year": 2017,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "publication_type": "Book chapter",
+      "topic": "Measurement & methods",
+      "summary_en": "Public abstract or HTML documentation describes Authenticated gaze-controlled game in a desktop setting, using gaze position or direction for movement or camera control and actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 Authenticated gaze-controlled game 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://doi.org/10.1007/978-3-319-58460-7_16",
+      "doi": "10.1007/978-3-319-58460-7_16",
+      "discovery_source": "https://doi.org/10.1007/978-3-319-58460-7_16",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-03245",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "Authenticated gaze-controlled game [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03273",
+      "title": "Effects of galvanic skin response feedback on user experience in gaze-controlled gaming: A pilot study",
+      "authors": "Fanny Larradet; Giacinto Barresi; Leonardo S. Mattos",
+      "year": 2017,
+      "venue": "Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBS",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Public abstract or HTML documentation describes Gaze-controlled game with GSR relaxation command in a desktop setting, using gaze position or direction for actions or game-state changes and adaptive gameplay. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 Gaze-controlled game with GSR relaxation command 在桌面环境中的设计，使用视线位置或方向实现动作或游戏状态变化、自适应玩法；全文核验仍待完成。",
+      "url": "https://doi.org/10.1109/embc.2017.8037354",
+      "doi": "10.1109/embc.2017.8037354",
+      "discovery_source": "https://doi.org/10.1109/embc.2017.8037354",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-03273",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "action",
+        "adaptation"
+      ],
+      "system_names": [
+        "Gaze-controlled game with GSR relaxation command [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03400",
+      "title": "Exploring gaze and hand gestures for non-verbal in-game communication",
+      "authors": "Bernhard Maurer; Alina Krischkowsky; Manfred Tscheligi",
+      "year": 2017,
+      "venue": "CHI PLAY 2017 Extended Abstracts - Extended Abstracts Publication of the Annual Symposium on Computer-Human Interaction in Play",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Gaze-and-hand cooperative game suite in a desktop setting, using gaze position or direction for social or shared-gaze interaction. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Gaze-and-hand cooperative game suite 在桌面环境中的设计，使用视线位置或方向实现社会性或共享视线交互。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3130859.3131296",
+      "doi": "10.1145/3130859.3131296",
+      "discovery_source": "https://doi.org/10.1145/3130859.3131296",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03400",
+      "evidence_cluster": "Social & shared gaze",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "social"
+      ],
+      "system_names": [
+        "Gaze-and-hand cooperative game suite [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03474",
+      "title": "Meyendtris: A hands-free, multimodal tetris clone using eye tracking and passive BCI for intuitive neuroadaptive gaming",
+      "authors": "Laurens Ruben Krol; Sarah-Christin Freytag; Thorsten O. Zander",
+      "year": 2017,
+      "venue": "ICMI 2017 - Proceedings of the 19th ACM International Conference on Multimodal Interaction",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Meyendtris in a desktop setting, using gaze position or direction for movement or camera control and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Meyendtris 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3136755.3136805",
+      "doi": "10.1145/3136755.3136805",
+      "discovery_source": "https://doi.org/10.1145/3136755.3136805",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03474",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "Meyendtris"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03624",
+      "title": "Electrooculogram-based virtual reality game control using blink detection and gaze calibration",
+      "authors": "Devender Kumar; Amit Sharma",
+      "year": 2016,
+      "venue": "2016 International Conference on Advances in Computing, Communications and Informatics, ICACCI 2016",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Public abstract or HTML documentation describes VRrailSurfer in a head-mounted VR setting, using gaze position or direction and blinking for movement or camera control and actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 VRrailSurfer 在头显虚拟现实环境中的设计，使用视线位置或方向、眨眼实现移动或镜头控制、动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://doi.org/10.1109/icacci.2016.7732407",
+      "doi": "10.1109/icacci.2016.7732407",
+      "discovery_source": "https://doi.org/10.1109/icacci.2016.7732407",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-03624",
+      "evidence_cluster": "VR & spatial interaction",
+      "eye_signals": [
+        "gaze",
+        "blink"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "VRrailSurfer"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03647",
+      "title": "If looks could kill: Humanoid robots play a gaze-based social game with humans",
+      "authors": "Oskar Palinko; Alessandra Sciutti; Yujin Wakita; Yoshio Matsumoto; Giulio Sandini",
+      "year": 2016,
+      "venue": "IEEE-RAS International Conference on Humanoid Robots",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Public abstract or HTML documentation describes Wink Murder — humanoid-robot adaptation in a physical-robot setting, using gaze position or direction and blinking for social or shared-gaze interaction and actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 Wink Murder — humanoid-robot adaptation 在实体机器人环境中的设计，使用视线位置或方向、眨眼实现社会性或共享视线交互、动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://doi.org/10.1109/humanoids.2016.7803380",
+      "doi": "10.1109/humanoids.2016.7803380",
+      "discovery_source": "https://doi.org/10.1109/humanoids.2016.7803380",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-03647",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze",
+        "blink"
+      ],
+      "interaction_roles": [
+        "social",
+        "action"
+      ],
+      "system_names": [
+        "Wink Murder — humanoid-robot adaptation"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03805",
+      "title": "GazeArchers: Playing with individual and shared attention in a two-player look&shoot tabletop game",
+      "authors": "Ken Pfeuffer; Jason Alexander; Hans W. Gellersen",
+      "year": 2016,
+      "venue": "ACM International Conference Proceeding Series",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines GazeArchers in a tabletop setting, using gaze position or direction for aiming or targeting, social or shared-gaze interaction and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 GazeArchers 在桌面实体环境中的设计，使用视线位置或方向实现瞄准或目标获取、社会性或共享视线交互、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3012709.3012717",
+      "doi": "10.1145/3012709.3012717",
+      "discovery_source": "https://doi.org/10.1145/3012709.3012717",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03805",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "aiming",
+        "social",
+        "action"
+      ],
+      "system_names": [
+        "GazeArchers"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03845",
+      "title": "GazeAR: Mobile gaze-based interaction in the context of augmented reality games",
+      "authors": "Michael Lankes; Barbara Stiglbauer",
+      "year": 2016,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "publication_type": "Book chapter",
+      "topic": "Games & interaction",
+      "summary_en": "Public abstract or HTML documentation describes GazeAR mobile AR game prototypes in a mobile augmented-reality setting, using gaze position or direction for selection or confirmation and actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 GazeAR mobile AR game prototypes 在移动增强现实环境中的设计，使用视线位置或方向实现选择或确认、动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://doi.org/10.1007/978-3-319-40621-3_28",
+      "doi": "10.1007/978-3-319-40621-3_28",
+      "discovery_source": "https://doi.org/10.1007/978-3-319-40621-3_28",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-03845",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "selection",
+        "action"
+      ],
+      "system_names": [
+        "GazeAR mobile AR game prototypes"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03979",
+      "title": "An eye for an eye: Gaze input in competitive online games and its effects on social presence",
+      "authors": "Michael Lankes; Bernhard Maurer; Barbara Stiglbauer",
+      "year": 2016,
+      "venue": "ACM International Conference Proceeding Series",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Mills — shared-gaze adaptation; Screencheat — shared-gaze adaptation in a desktop setting, using gaze position or direction for social or shared-gaze interaction. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Mills — shared-gaze adaptation; Screencheat — shared-gaze adaptation 在桌面环境中的设计，使用视线位置或方向实现社会性或共享视线交互。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/3001773.3001774",
+      "doi": "10.1145/3001773.3001774",
+      "discovery_source": "https://doi.org/10.1145/3001773.3001774",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03979",
+      "evidence_cluster": "Social & shared gaze",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "social"
+      ],
+      "system_names": [
+        "Mills — shared-gaze adaptation",
+        "Screencheat — shared-gaze adaptation"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03982",
+      "title": "EyeCo: Effects of shared gaze on social presence in an online cooperative game",
+      "authors": "Bernhard Maurer; Michael Lankes; Barbara Stiglbauer; Manfred Tscheligi",
+      "year": 2016,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "publication_type": "Book chapter",
+      "topic": "Games & interaction",
+      "summary_en": "Public abstract or HTML documentation describes EyeCo in a desktop setting, using gaze position or direction for social or shared-gaze interaction. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 EyeCo 在桌面环境中的设计，使用视线位置或方向实现社会性或共享视线交互；全文核验仍待完成。",
+      "url": "https://doi.org/10.1007/978-3-319-46100-7_9",
+      "doi": "10.1007/978-3-319-46100-7_9",
+      "discovery_source": "https://doi.org/10.1007/978-3-319-46100-7_9",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-03982",
+      "evidence_cluster": "Social & shared gaze",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "social"
+      ],
+      "system_names": [
+        "EyeCo"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03515",
+      "title": "Real-Time Control of a Video Game Using Eye Movements and Two Temporal EEG Sensors",
+      "authors": "Abdelkader Nasreddine Belkacem; Supat Saetia; Kalanyu Zintus-art; Duk Shin; Hiroyuki Kambara; Natsue Yoshimura; Nasreddine Berrached; Yasuharu Koike",
+      "year": 2015,
+      "venue": "Computational Intelligence and Neuroscience",
+      "publication_type": "Journal article",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Meteor-evasion eye-controlled game in a desktop setting, using gaze position or direction for movement or camera control. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Meteor-evasion eye-controlled game 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1155/2015/653639",
+      "doi": "10.1155/2015/653639",
+      "discovery_source": "https://doi.org/10.1155/2015/653639",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03515",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement"
+      ],
+      "system_names": [
+        "Meteor-evasion eye-controlled game [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03552",
+      "title": "Generation Y, baby boomers, and gaze interaction experience in gaming",
+      "authors": "Soussan Djamasbi; Siavash Mortazavi",
+      "year": 2015,
+      "venue": "Proceedings of the Annual Hawaii International Conference on System Sciences",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Simon — gaze-enabled memory game in a desktop setting, using gaze position or direction and blinking for selection or confirmation. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Simon — gaze-enabled memory game 在桌面环境中的设计，使用视线位置或方向、眨眼实现选择或确认。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1109/hicss.2015.64",
+      "doi": "10.1109/hicss.2015.64",
+      "discovery_source": "https://doi.org/10.1109/hicss.2015.64",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03552",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze",
+        "blink"
+      ],
+      "interaction_roles": [
+        "selection"
+      ],
+      "system_names": [
+        "Simon — gaze-enabled memory game"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03683",
+      "title": "Gaze-supported gaming: MAGIC techniques for first person shooters",
+      "authors": "Eduardo Velloso; Amy Fleming; Jason Alexander; Hans Gellersen",
+      "year": 2015,
+      "venue": "CHI PLAY 2015 - Proceedings of the 2015 Annual Symposium on Computer-Human Interaction in Play",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Battlefield 3 — MAGIC Sense adaptation in a desktop setting, using gaze position or direction for aiming or targeting and movement or camera control. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Battlefield 3 — MAGIC Sense adaptation 在桌面环境中的设计，使用视线位置或方向实现瞄准或目标获取、移动或镜头控制。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/2793107.2793137",
+      "doi": "10.1145/2793107.2793137",
+      "discovery_source": "https://doi.org/10.1145/2793107.2793137",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03683",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "aiming",
+        "movement"
+      ],
+      "system_names": [
+        "Battlefield 3 — MAGIC Sense adaptation"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03691",
+      "title": "Gaze-based onlooker integration: Exploring the in-between of active player and passive spectator in co-located gaming",
+      "authors": "Bernhard Maurer; Ilhan Aslan; Martin Wuchse; Katja Neureiter; Manfred Tscheligi",
+      "year": 2015,
+      "venue": "CHI PLAY 2015 - Proceedings of the 2015 Annual Symposium on Computer-Human Interaction in Play",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Infinite Mario — Onlooker adaptation in a desktop setting, using gaze position or direction for social or shared-gaze interaction and guidance or cueing. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Infinite Mario — Onlooker adaptation 在桌面环境中的设计，使用视线位置或方向实现社会性或共享视线交互、引导或提示。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/2793107.2793126",
+      "doi": "10.1145/2793107.2793126",
+      "discovery_source": "https://doi.org/10.1145/2793107.2793126",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03691",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "social",
+        "guidance"
+      ],
+      "system_names": [
+        "Infinite Mario — Onlooker adaptation"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03790",
+      "title": "Taking a look at the player's gaze: The effects of gaze visualizations on the perceived presence in games",
+      "authors": "Michael Lankes; Stefan Wagner",
+      "year": 2015,
+      "venue": "DiGRA 2015 - Proceedings of the 2015 DiGRA International Conference: Diversity of Play",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Limus and the Eyes of the Beholders; Fractile in a desktop setting, using gaze position or direction for actions or game-state changes and guidance or cueing. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Limus and the Eyes of the Beholders; Fractile 在桌面环境中的设计，使用视线位置或方向实现动作或游戏状态变化、引导或提示。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.26503/dl.v2015i1.722",
+      "doi": "10.26503/dl.v2015i1.722",
+      "discovery_source": "https://dl.digra.org/index.php/dl/article/view/722",
+      "related_game_ids": [
+        "limus-beholders"
+      ],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03790",
+      "evidence_cluster": "Social & shared gaze",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "action",
+        "guidance"
+      ],
+      "system_names": [
+        "Limus and the Eyes of the Beholders",
+        "Fractile"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03804",
+      "title": "A field study on spontaneous gaze-based interaction with a public display using pursuits",
+      "authors": "Mohamed Khamis; Florian Alt; Andreas Bulling",
+      "year": 2015,
+      "venue": "UbiComp and ISWC 2015 - Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the Proceedings of the 2015 ACM International Symposium on Wearable Computers",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Eye Fishing in a public-display setting, using gaze position or direction and smooth pursuit for selection or confirmation and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Eye Fishing 在公共显示屏环境中的设计，使用视线位置或方向、平滑追踪实现选择或确认、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/2800835.2804335",
+      "doi": "10.1145/2800835.2804335",
+      "discovery_source": "https://doi.org/10.1145/2800835.2804335",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03804",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze",
+        "pursuit"
+      ],
+      "interaction_roles": [
+        "selection",
+        "action"
+      ],
+      "system_names": [
+        "Eye Fishing"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03841",
+      "title": "The royal corgi: Exploring social gaze interaction for immersive gameplay",
+      "authors": "Melodie Vidal; Remi Bismuth; Andreas Bulling; Hans Gellersen",
+      "year": 2015,
+      "venue": "Conference on Human Factors in Computing Systems - Proceedings",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines The Royal Corgi in a desktop setting, using gaze position or direction for social or shared-gaze interaction and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 The Royal Corgi 在桌面环境中的设计，使用视线位置或方向实现社会性或共享视线交互、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/2702123.2702163",
+      "doi": "10.1145/2702123.2702163",
+      "discovery_source": "https://doi.org/10.1145/2702123.2702163",
+      "related_game_ids": [
+        "royal-corgi"
+      ],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03841",
+      "evidence_cluster": "Social & shared gaze",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "social",
+        "action"
+      ],
+      "system_names": [
+        "The Royal Corgi"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-03885",
+      "title": "Whom are you looking for? the effects of different player representation relations on the presence in gaze-based games",
+      "authors": "Michael Lankes; Thomas Mirlacher; Stefan Wagner; Wolfgang Hochleitner",
+      "year": 2014,
+      "venue": "CHI PLAY 2014 - Proceedings of the 2014 Annual Symposium on Computer-Human Interaction in Play",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Limus and the Eyes of the Beholders in a desktop setting, using gaze position or direction for actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Limus and the Eyes of the Beholders 在桌面环境中的设计，使用视线位置或方向实现动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/2658537.2658698",
+      "doi": "10.1145/2658537.2658698",
+      "discovery_source": "https://doi.org/10.1145/2658537.2658698",
+      "related_game_ids": [
+        "limus-beholders"
+      ],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-03885",
+      "evidence_cluster": "Social & shared gaze",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "action"
+      ],
+      "system_names": [
+        "Limus and the Eyes of the Beholders"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04130",
+      "title": "Dynamically adapting an ai game engine based on players' eye movements and strategies",
+      "authors": "Stefanie Wetzel; Katta Spiel; Sven Bertel",
+      "year": 2014,
+      "venue": "EICS 2014 - Proceedings of the 2014 ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Hex — gaze-adaptive antagonist in a desktop setting, using gaze position or direction for adaptive gameplay. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Hex — gaze-adaptive antagonist 在桌面环境中的设计，使用视线位置或方向实现自适应玩法。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/2607023.2607029",
+      "doi": "10.1145/2607023.2607029",
+      "discovery_source": "https://doi.org/10.1145/2607023.2607029",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-04130",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "adaptation"
+      ],
+      "system_names": [
+        "Hex — gaze-adaptive antagonist"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04330",
+      "title": "Automating camera control in games using gaze",
+      "authors": "Cameron Alston; Arnav Jhala",
+      "year": 2014,
+      "venue": "AAAI Workshop - Technical Report",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines FPS gaze-camera prototype in a desktop setting, using gaze position or direction for movement or camera control. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 FPS gaze-camera prototype 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制。该证据地图条目已经过全文评估。",
+      "url": "https://cdn.aaai.org/ocs/ws/ws1279/8864-38045-1-PB.pdf",
+      "doi": "",
+      "discovery_source": "https://cdn.aaai.org/ocs/ws/ws1279/8864-38045-1-PB.pdf",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "Primary source and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-04330",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement"
+      ],
+      "system_names": [
+        "FPS gaze-camera prototype [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04055",
+      "title": "Eye-controlled games for behavioral therapy of attention deficit disorders",
+      "authors": "Ashwag Al-Shathri; Areej Al-Wabil; Yousef Al-Ohali",
+      "year": 2013,
+      "venue": "Communications in Computer and Information Science",
+      "publication_type": "Book chapter",
+      "topic": "Clinical & developmental",
+      "summary_en": "Examines Tarkeezy in a desktop setting, using gaze position or direction for selection or confirmation and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Tarkeezy 在桌面环境中的设计，使用视线位置或方向实现选择或确认、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1007/978-3-642-39473-7_114",
+      "doi": "10.1007/978-3-642-39473-7_114",
+      "discovery_source": "https://doi.org/10.1007/978-3-642-39473-7_114",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-04055",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "selection",
+        "action"
+      ],
+      "system_names": [
+        "Tarkeezy"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04088",
+      "title": "Performing locomotion tasks in immersive computer games with an adapted eye-tracking interface",
+      "authors": "Stephen Vickers; Howell Owen Istance; Aulikki Hyrskykari",
+      "year": 2013,
+      "venue": "ACM Transactions on Accessible Computing",
+      "publication_type": "Journal article",
+      "topic": "Games & interaction",
+      "summary_en": "Examines World of Warcraft — gaze-access adaptation in a desktop setting, using gaze position or direction for movement or camera control and selection or confirmation. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 World of Warcraft — gaze-access adaptation 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、选择或确认。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/2514856",
+      "doi": "10.1145/2514856",
+      "discovery_source": "https://doi.org/10.1145/2514856",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-04088",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "selection"
+      ],
+      "system_names": [
+        "World of Warcraft — gaze-access adaptation"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04144",
+      "title": "Wayla - novel gaming experience through unique gaze interaction",
+      "authors": "Wein Chang; Po-An Shen; Kushal Ponnam; Helena Barbosa; Monchu Chen; Sergi Bermúdez i Badia",
+      "year": 2013,
+      "venue": "ACM SIGGRAPH 2013 Emerging Technologies, SIGGRAPH 2013",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines WAYLA in a desktop setting, using gaze position or direction for actions or game-state changes and social or shared-gaze interaction. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 WAYLA 在桌面环境中的设计，使用视线位置或方向实现动作或游戏状态变化、社会性或共享视线交互。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/2503368.2503384",
+      "doi": "10.1145/2503368.2503384",
+      "discovery_source": "https://doi.org/10.1145/2503368.2503384",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-04144",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "action",
+        "social"
+      ],
+      "system_names": [
+        "WAYLA"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04167",
+      "title": "A wireless Electrooculography-based human-computer interface for baseball game",
+      "authors": "Chin-Teng Lin; Shang-Lin Wu; Wei-Ling Jiang; Jyun-Wei Liang; Shi-An Chen",
+      "year": 2013,
+      "venue": "ICICS 2013 - Conference Guide of the 9th International Conference on Information, Communications and Signal Processing",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Public abstract or HTML documentation describes Wireless-EOG baseball game in a desktop setting, using gaze position or direction and blinking for selection or confirmation and actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 Wireless-EOG baseball game 在桌面环境中的设计，使用视线位置或方向、眨眼实现选择或确认、动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://doi.org/10.1109/icics.2013.6782884",
+      "doi": "10.1109/icics.2013.6782884",
+      "discovery_source": "https://doi.org/10.1109/icics.2013.6782884",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-04167",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze",
+        "blink"
+      ],
+      "interaction_roles": [
+        "selection",
+        "action"
+      ],
+      "system_names": [
+        "Wireless-EOG baseball game"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04168",
+      "title": "Evaluation and comparison of a multimodal combination of BCI paradigms and eye tracking with affordable consumer-grade hardware in a gaming context",
+      "authors": "Nataliya Kosmyna; Franck Tarpin-Bernard",
+      "year": 2013,
+      "venue": "IEEE Transactions on Computational Intelligence and AI in Games",
+      "publication_type": "Journal article",
+      "topic": "Games & interaction",
+      "summary_en": "Examines 3×3 rotation puzzle — eye tracking + BCI in a desktop setting, using gaze position or direction for selection or confirmation and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 3×3 rotation puzzle — eye tracking + BCI 在桌面环境中的设计，使用视线位置或方向实现选择或确认、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1109/tciaig.2012.2230003",
+      "doi": "10.1109/tciaig.2012.2230003",
+      "discovery_source": "https://doi.org/10.1109/tciaig.2012.2230003",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-04168",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "selection",
+        "action"
+      ],
+      "system_names": [
+        "3×3 rotation puzzle — eye tracking + BCI"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04482",
+      "title": "Eyegrab: A gaze-based game with a purpose to enrich image context information",
+      "authors": "Tina Walber; Chantal Neuhaus; Ansgar Scherp",
+      "year": 2012,
+      "venue": "CEUR Workshop Proceedings",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines EyeGrab in a desktop setting, using gaze position or direction for selection or confirmation and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 EyeGrab 在桌面环境中的设计，使用视线位置或方向实现选择或确认、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://ceur-ws.org/Vol-909/EuroHCIR2012-Proceedings.pdf",
+      "doi": "",
+      "discovery_source": "https://ceur-ws.org/Vol-909/EuroHCIR2012-Proceedings.pdf",
+      "related_game_ids": [
+        "eyegrab"
+      ],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "Primary source and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-04482",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "selection",
+        "action"
+      ],
+      "system_names": [
+        "EyeGrab"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04687",
+      "title": "Hyakunin-Eyesshu: A tabletop Hyakunin-Isshu game with computer opponent by the action prediction based on gaze detection",
+      "authors": "Michiya Yamamoto; Munehiro Komeda; Takashi Nagamatsu; Tomio Watanabe",
+      "year": 2011,
+      "venue": "ACM International Conference Proceeding Series",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Hyakunin-Eyesshu in a tabletop setting, using gaze position or direction for adaptive gameplay and social or shared-gaze interaction. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Hyakunin-Eyesshu 在桌面实体环境中的设计，使用视线位置或方向实现自适应玩法、社会性或共享视线交互。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/1983302.1983307",
+      "doi": "10.1145/1983302.1983307",
+      "discovery_source": "https://doi.org/10.1145/1983302.1983307",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-04687",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "adaptation",
+        "social"
+      ],
+      "system_names": [
+        "Hyakunin-Eyesshu"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04669",
+      "title": "Designing gaze gestures for gaming: An investigation of performance",
+      "authors": "Howell Owen Istance; Aulikki Hyrskykari; Lauri Immonen; Santtu Mansikkamaa; Stephen Vickers",
+      "year": 2010,
+      "venue": "Eye Tracking Research and Applications Symposium (ETRA)",
+      "publication_type": "Conference paper",
+      "topic": "Measurement & methods",
+      "summary_en": "Examines World of Warcraft — gaze-access adaptation in a desktop setting, using gaze position or direction for actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 World of Warcraft — gaze-access adaptation 在桌面环境中的设计，使用视线位置或方向实现动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/1743666.1743740",
+      "doi": "10.1145/1743666.1743740",
+      "discovery_source": "https://doi.org/10.1145/1743666.1743740",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-04669",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "action"
+      ],
+      "system_names": [
+        "World of Warcraft — gaze-access adaptation"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04898",
+      "title": "EyeGuitar: Making rhythm based music video games accessible using only eye movements",
+      "authors": "Stephen Vickers; Howell Owen Istance; Matthew Smalley",
+      "year": 2010,
+      "venue": "ACM International Conference Proceeding Series",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines EyeGuitar in a desktop setting, using gaze position or direction for movement or camera control and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 EyeGuitar 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/1971630.1971641",
+      "doi": "10.1145/1971630.1971641",
+      "discovery_source": "https://doi.org/10.1145/1971630.1971641",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-04898",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "EyeGuitar"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04854",
+      "title": "Gaze-based interaction with Massively Multiplayer On-line Games",
+      "authors": "Howell Owen Istance; Stephen Vickers; Aulikki Hyrskykari",
+      "year": 2009,
+      "venue": "Conference on Human Factors in Computing Systems - Proceedings",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines World of Warcraft — gaze-access adaptation in a desktop setting, using gaze position or direction for movement or camera control and selection or confirmation. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 World of Warcraft — gaze-access adaptation 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、选择或确认。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/1520340.1520670",
+      "doi": "10.1145/1520340.1520670",
+      "discovery_source": "https://doi.org/10.1145/1520340.1520670",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-04854",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "selection"
+      ],
+      "system_names": [
+        "World of Warcraft — gaze-access adaptation"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04875",
+      "title": "Play games with eyes: A portable EOG based HCI system for game control",
+      "authors": "Weidong Chen; Xiang Li; Y. Hao; J. Liu; Dongrong Xu; Xiaoxiang Zheng",
+      "year": 2009,
+      "venue": "Journal of Information and Computational Science",
+      "publication_type": "Journal article",
+      "topic": "Games & interaction",
+      "summary_en": "Public abstract or HTML documentation describes Counter-Strike — portable EOG adaptation in a desktop setting, using gaze position or direction and blinking for movement or camera control and actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 Counter-Strike — portable EOG adaptation 在桌面环境中的设计，使用视线位置或方向、眨眼实现移动或镜头控制、动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://www.columbia.edu/~dx2103/",
+      "doi": "",
+      "discovery_source": "https://www.columbia.edu/~dx2103/",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "Primary source and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-04875",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze",
+        "blink"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "Counter-Strike — portable EOG adaptation"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04877",
+      "title": "For your eyes only: Controlling 3D online games by eye-gaze",
+      "authors": "Howell Istance; Aulikki Hyrskykari; Stephen Vickers; Thiago Chaves",
+      "year": 2009,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "publication_type": "Book chapter",
+      "topic": "Games & interaction",
+      "summary_en": "Examines World of Warcraft — gaze-access adaptation in a desktop setting, using gaze position or direction for movement or camera control, selection or confirmation and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 World of Warcraft — gaze-access adaptation 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、选择或确认、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1007/978-3-642-03655-2_36",
+      "doi": "10.1007/978-3-642-03655-2_36",
+      "discovery_source": "https://doi.org/10.1007/978-3-642-03655-2_36",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-04877",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "selection",
+        "action"
+      ],
+      "system_names": [
+        "World of Warcraft — gaze-access adaptation"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04632",
+      "title": "EyeMote - Towards context-aware gaming using eye movements recorded from wearable electrooculography",
+      "authors": "Andreas Bulling; Daniel Roggen; Gerhard Tröster",
+      "year": 2008,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Public abstract or HTML documentation describes EyeMote stationary game demonstration in a desktop setting, using gaze position or direction for actions or game-state changes. Full-text verification remains pending.",
+      "summary_zh": "公开摘要或 HTML 资料描述了 EyeMote stationary game demonstration 在桌面环境中的设计，使用视线位置或方向实现动作或游戏状态变化；全文核验仍待完成。",
+      "url": "https://doi.org/10.1007/978-3-540-88322-7_4",
+      "doi": "10.1007/978-3-540-88322-7_4",
+      "discovery_source": "https://doi.org/10.1007/978-3-540-88322-7_4",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "abstract_html_provisional",
+      "original_record_id": "SC01-04632",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "action"
+      ],
+      "system_names": [
+        "EyeMote stationary game demonstration"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04860",
+      "title": "Invisible Eni - Using gaze and pupil size to control a game",
+      "authors": "Inger M. Ekman; Antti Poikola; Meeri Mäkäräinen",
+      "year": 2008,
+      "venue": "Conference on Human Factors in Computing Systems - Proceedings",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Invisible Eni in a desktop setting, using gaze position or direction, blinking, eye closure or looking away and pupil size for movement or camera control and actions or game-state changes. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Invisible Eni 在桌面环境中的设计，使用视线位置或方向、眨眼、闭眼或移开视线、瞳孔大小实现移动或镜头控制、动作或游戏状态变化。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/1358628.1358820",
+      "doi": "10.1145/1358628.1358820",
+      "discovery_source": "https://doi.org/10.1145/1358628.1358820",
+      "related_game_ids": [
+        "invisible-eni"
+      ],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-04860",
+      "evidence_cluster": "Pupil-mediated mechanics",
+      "eye_signals": [
+        "gaze",
+        "blink",
+        "eye-closure",
+        "pupil"
+      ],
+      "interaction_roles": [
+        "movement",
+        "action"
+      ],
+      "system_names": [
+        "Invisible Eni"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04954",
+      "title": "Video game design using an eye-movement-dependent model of visual attention",
+      "authors": "Li Jie; James J. Clark",
+      "year": 2008,
+      "venue": "ACM Transactions on Multimedia Computing, Communications and Applications",
+      "publication_type": "Journal article",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Attention-adaptive PC shooter in a desktop setting, using gaze position or direction and smooth pursuit for adaptive gameplay. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Attention-adaptive PC shooter 在桌面环境中的设计，使用视线位置或方向、平滑追踪实现自适应玩法。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/1386109.1386115",
+      "doi": "10.1145/1386109.1386115",
+      "discovery_source": "https://doi.org/10.1145/1386109.1386115",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-04954",
+      "evidence_cluster": "Novel mechanics & adaptive play",
+      "eye_signals": [
+        "gaze",
+        "pursuit"
+      ],
+      "interaction_roles": [
+        "adaptation"
+      ],
+      "system_names": [
+        "Attention-adaptive PC shooter [descriptive name]"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
+    },
+    {
+      "id": "sc01-04731",
+      "title": "Use of eye movements for video game control",
+      "authors": "J. D. Smith; T.C. Nicholas Graham",
+      "year": 2006,
+      "venue": "International Conference on Advances in Computer Entertainment Technology 2006",
+      "publication_type": "Conference paper",
+      "topic": "Games & interaction",
+      "summary_en": "Examines Jake2 — gaze-orientation adaptation; Gaze-avatar communication prototype; Missile Command — gaze-targeting adaptation in a desktop setting, using gaze position or direction for movement or camera control, social or shared-gaze interaction and aiming or targeting. This evidence-map record was assessed from the full text.",
+      "summary_zh": "研究 Jake2 — gaze-orientation adaptation; Gaze-avatar communication prototype; Missile Command — gaze-targeting adaptation 在桌面环境中的设计，使用视线位置或方向实现移动或镜头控制、社会性或共享视线交互、瞄准或目标获取。该证据地图条目已经过全文评估。",
+      "url": "https://doi.org/10.1145/1178823.1178847",
+      "doi": "10.1145/1178823.1178847",
+      "discovery_source": "https://doi.org/10.1145/1178823.1178847",
+      "related_game_ids": [],
+      "checked_at": "2026-10-27",
+      "metadata_basis": "DOI metadata and scoping-review evidence coding",
+      "evidence_status": "full_text_assessed",
+      "original_record_id": "SC01-04731",
+      "evidence_cluster": "Direct, assistive & EOG control",
+      "eye_signals": [
+        "gaze"
+      ],
+      "interaction_roles": [
+        "movement",
+        "social",
+        "aiming"
+      ],
+      "system_names": [
+        "Jake2 — gaze-orientation adaptation",
+        "Gaze-avatar communication prototype [descriptive name]",
+        "Missile Command — gaze-targeting adaptation"
+      ],
+      "evidence_map_checked_at": "2026-10-27",
+      "contributed_by": "WeiWu0115",
+      "contribution_source": "https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1"
     }
   ]
 }

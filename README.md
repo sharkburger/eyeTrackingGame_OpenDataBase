@@ -2,7 +2,7 @@
 
 An open, bilingual database of eye-tracking games and interactive research projects. Browse commercial titles, indie games, accessible gaze experiences, training activities, and academic prototypes, with images, descriptions, hardware details, and primary sources.
 
-**Updated October 22, 2026:** 122 game records and 77 research publication records.
+**Updated October 27, 2026:** 122 game records and 162 research publication records.
 
 ## Explore
 
@@ -16,7 +16,7 @@ The website supports keyword search and filters for category, genre, design purp
 
 [English Research](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/research.html) · [中文研究论文](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/research.html)
 
-Browse 77 publication records by topic, year, and publication type. The initial collection includes 55 records discovered through HarmonEyes Science plus the PoNG pilot study and Atari-HEAD paper already cited by the game database. The October 22 update adds 20 publications from 2025–2026, covering gaze-controlled training, game interaction, calibration, cognition and clinical measurement. Each record includes an original title, authors, venue, bilingual research focus, source links, and a DOI where identified. Related games and publication versions are linked. Publication types distinguish articles, conference materials, chapters, edited volumes, editorials, abstracts, and preprints.
+Browse 162 publication records by topic, year, and publication type, with evidence-status labels. The October 27 update adds 85 non-duplicate records from an interaction-focused scoping review: 63 were assessed from full text and 22 remain provisional from public abstracts or HTML documentation. Each added record retains its coded eye signals, interaction roles, system names, and evidence cluster. Evidence-status labels reflect the contributor’s assessment records. This collection was contributed by [@WeiWu0115](https://github.com/WeiWu0115) in [PR #1](https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/pull/1). Records include an original title, authors, venue, bilingual research focus, source links, and a DOI where identified. Related games are linked only when a high-confidence match is available.
 
 Download [bilingual JSON](data/papers.json) or [CSV](data/papers.csv). Source-listing dates and metadata provenance are retained in the dataset. Original documents take precedence when correcting bibliographic details.
 
