@@ -12,6 +12,10 @@ An open, bilingual database of eye-tracking games and interactive research proje
 
 The website supports keyword search and filters for category, genre, design purpose, gaze role, hardware, interaction, and research population. Projects from UCSD PoNG and other institutions use the same classification; institutional provenance accompanies their sources.
 
+## Analysis
+
+[Explore the research analysis](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/analysis.html): publication years, topics, eye signals and interaction roles, with links to papers and coding coverage. Regenerate with `python3 scripts/build_analysis.py`.
+
 ## Research library
 
 [English Research](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/research.html) · [中文研究论文](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/research.html)
